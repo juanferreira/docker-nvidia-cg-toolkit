@@ -1,0 +1,5 @@
+The Cg Toolkit is a legacy NVIDIA toolkit no longer under active development or support. Cg 3.1 is their last release and while they continue to make it available to developers, they do not recommend using it in new development projects because future hardware features may not be supported.
+
+NVIDIA was proud to introduce programmable shading with Cg, which supported dozens of different OpenGL and DirectX profile targets. It allowed developers to incorporate interactive effects within 3D applications and share them among other Cg applications, across graphics APIs, and most operating systems (Windows XP, Vista and Windows 7, Mac OS X for Leopard, Snow Leopard & Lion, Linux 32-bit & 64-bit) as well as balance effect complexities with client GPU capabilities.
+
+Going forward, they recommend new development with GLSL, or HLSL for Windows applications, rather than Cg.
